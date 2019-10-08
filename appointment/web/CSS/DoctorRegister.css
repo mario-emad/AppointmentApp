@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#doctorlogindiv, #doctorregisterdiv{
+    margin: 0px;
+    padding: 0px;
+    width: 50%;
+    /*background-color: cornflowerblue;*/
+    /*border: solid 1px green;*/
+    overflow: hidden;
+    display: inline-block;
+    float: left;
+}
